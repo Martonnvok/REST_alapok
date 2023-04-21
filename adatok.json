@@ -1,0 +1,32 @@
+{
+  "lista": [
+    {
+      "id": 1,
+      "nev": "Kakaóscsiga",
+      "darab": 1,
+      "ar": 350,
+      "alapar": 350
+    },
+    {
+      "id": 3,
+      "nev": "Kifli",
+      "darab": 1,
+      "ar": 120,
+      "alapar": 120
+    },
+    {
+      "id": 4,
+      "nev": "Redbull",
+      "darab": 1,
+      "ar": 350,
+      "alapar": 350
+    },
+    {
+      "id": 5,
+      "nev": "Csokis tej",
+      "darab": 1,
+      "ar": 220,
+      "alapar": 220
+    }
+  ]
+}
